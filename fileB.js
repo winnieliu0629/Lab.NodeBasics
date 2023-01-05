@@ -1,0 +1,8 @@
+module.exports.foo = 'hello world'
+module.exports.bar = 'goodbye world'
+
+function num() {
+    let number = 5
+}
+
+module.exports.num = { num }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
